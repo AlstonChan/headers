@@ -1,6 +1,6 @@
 {
   "name": "@chan_alston/headers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.mjs",
   "private": false,
   "description": "Generate perfect code headers every time.",
