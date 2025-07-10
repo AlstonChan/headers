@@ -1,0 +1,33 @@
+{
+  "name": "@chan_alston/headers",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "private": false,
+  "description": "Generate perfect code headers every time.",
+  "module": "index.mjs",
+  "type": "module",
+  "keywords": [
+    "utility",
+    "header",
+    "code",
+    "generator",
+    "perfect",
+    "comments"
+  ],
+  "author": {
+    "name": "Chan Alston",
+    "email": "devalston390@gmail.com",
+    "url": "https://www.chanalston.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlstonChan/headers"
+  },
+  "engines": {
+    "node": ">=16.14.0"
+  },
+  "dependencies": {
+    "@chan_alston/headers": "^1.0.0"
+  }
+}
