@@ -14,6 +14,7 @@
     "perfect",
     "comments"
   ],
+  "bin": "./index.mjs",
   "author": {
     "name": "Chan Alston",
     "email": "devalston390@gmail.com",
@@ -26,8 +27,5 @@
   },
   "engines": {
     "node": ">=16.14.0"
-  },
-  "dependencies": {
-    "@chan_alston/headers": "^1.0.0"
   }
 }
